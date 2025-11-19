@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/layout_fragment_book_details.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/layout/fragment_book_details.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/layout_fragment_add_review.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/layout/fragment_add_review.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.fragmentnavigationlab.app-debug-47:/layout_fragment_home.xml.flat",
+        "source": "com.example.fragmentnavigationlab.app-main-49:/layout/fragment_home.xml"
+    }
+]

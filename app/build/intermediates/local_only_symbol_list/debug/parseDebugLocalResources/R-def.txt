@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_addReview_to_home
+id action_details_to_addReview
+id action_home_to_details
+id addReviewFragment
+id addReviewTitle
+id bookDetailsFragment
+id bookDetailsTitle
+id buttonBackHome
+id buttonToAddReview
+id buttonToDetails
+id homeFragment
+id homeTitle
+id nav_graph
+id nav_host_fragment
+layout activity_main
+layout fragment_add_review
+layout fragment_book_details
+layout fragment_home
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+style Base.Theme.FragmentNavigationLab
+style Theme.FragmentNavigationLab
+xml backup_rules
+xml data_extraction_rules
